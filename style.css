@@ -500,7 +500,7 @@ ul{
     height: 60vh;
     background:
     linear-gradient(rgba(0,0,0,.55),rgba(0,0,0,.55)),
-    url("assets/text-bg.jpg") center/cover no-repeat;
+    url("assets/hero.png") center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -579,7 +579,7 @@ ul{
     padding: 120px 0;
     background:
     linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)),
-    url("assets/text-bg.jpg") center/cover no-repeat;
+    url("assets/hero.png") center/cover no-repeat;
     color: white;
     text-align: center;
 }
